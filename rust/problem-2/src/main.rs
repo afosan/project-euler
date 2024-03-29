@@ -1,4 +1,4 @@
-//! https://projecteuler.net/problem=1
+//! https://projecteuler.net/problem=2
 
 fn solve(n: u64) -> u64 {
     let mut f0 = 1;
